@@ -1,0 +1,8 @@
+{
+	"name": "react-native-app-template",
+	"version": "0.0.1",
+	"description": "React Native App Template with navigation, dark/light mode, i18n, database and more.",
+	"repository": "git@github.com:jxnata/react-native-app-template.git",
+	"author": "jxnata <jxnata.dev@gmail.com>",
+	"license": "MIT"
+}
