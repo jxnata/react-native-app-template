@@ -58,7 +58,7 @@ This is a template to initialize a React Native app with some pre-configured fea
 
 ## How to Use
 
-1. Init your React native project running `npx react-native@latest init testTemplate --template https://github.com/jxnata/react-native-app-template`.
+1. Init your React native project running `npx react-native@latest init YourProjectName --template https://github.com/jxnata/react-native-app-template`.
 2. Install dependencies by running `npm install` or `yarn install`.
 3. Run the app on an emulator or device with `npm run android` or `npm run ios` (or `yarn android` / `yarn ios`).
 
